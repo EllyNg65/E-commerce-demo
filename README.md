@@ -1,5 +1,5 @@
 # Origin of reference 
-This exercise follows tutorial made by PedroTech\ 
+This exercise follows tutorial made by PedroTech.\ 
 React\
 https://www.youtube.com/watch?v=tEMrD9t85v4
 
